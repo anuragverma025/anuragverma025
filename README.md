@@ -26,7 +26,7 @@ Full Stack Developer | Open Source Contributor | DSA Learner
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,huggingface,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,pytorch,opencv,huggingface" />
 </p>
 
 ### 📌 Projects
